@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tshriram02/emailme/issues"
   },
-  "homepage": "https://github.com/tshriram02/emailme"
+  "homepage": "https://github.com/tshriram02/emailme",
+  "dependencies": {
+    "emailjs": "^0.3.16"
+  }
 }
